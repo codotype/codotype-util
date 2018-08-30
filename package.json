@@ -1,5 +1,5 @@
 {
-  "name": "codotype-util",
+  "name": "@codotype/util",
   "version": "0.1.0",
   "description": "Utility functions used throughout the Codotype ecosystem",
   "main": "index.js",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/codotype/codotype-util/issues"
   },
-  "homepage": "https://github.com/codotype/codotype-util#readme"
+  "homepage": "https://github.com/codotype/codotype-util#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
