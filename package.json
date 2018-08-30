@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/codotype/codotype-util.git"
   },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "pluralize": "^7.0.0",
+    "underscore.string": "^3.3.4"
+  },
   "author": "Alexander Schwartzberg",
   "license": "MIT",
   "bugs": {
@@ -17,3 +22,4 @@
   },
   "homepage": "https://github.com/codotype/codotype-util#readme"
 }
+
