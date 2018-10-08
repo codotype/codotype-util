@@ -1,4 +1,4 @@
-const blueprint = require('./blueprint')
+const blueprint = require('@codotype/blueprints/lib/team-lists.json')
 const fs = require('fs')
 
 const { inflateSchema, inflateRelation, inflate } = require('../lib/inflate')

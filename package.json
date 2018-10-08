@@ -15,6 +15,9 @@
     "pluralize": "^7.0.0",
     "underscore.string": "^3.3.4"
   },
+  "devDependencies": {
+    "@codotype/blueprints": "^0.1.0"
+  },
   "author": "Alexander Schwartzberg",
   "license": "MIT",
   "bugs": {
