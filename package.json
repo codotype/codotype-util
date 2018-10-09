@@ -1,10 +1,10 @@
 {
   "name": "@codotype/util",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Utility functions used throughout the Codotype ecosystem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,6 +15,9 @@
     "pluralize": "^7.0.0",
     "underscore.string": "^3.3.4"
   },
+  "devDependencies": {
+    "@codotype/blueprints": "^0.1.0"
+  },
   "author": "Alexander Schwartzberg",
   "license": "MIT",
   "bugs": {
@@ -23,6 +26,5 @@
   "homepage": "https://github.com/codotype/codotype-util#readme",
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
