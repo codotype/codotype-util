@@ -26,6 +26,5 @@
   "homepage": "https://github.com/codotype/codotype-util#readme",
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
